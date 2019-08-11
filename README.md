@@ -17,3 +17,25 @@ Try running this in the cmd bar:
 ```
 game:GetService("InsertService"):LoadAsset(3636674984).Parent = workspace
 ```
+
+**How can I use this???**
+
+Easily! Here's a little example:
+
+```
+local players = game:GetService("Players")
+local M = require(script.Revolution)
+local L = M.L
+local D2 = M.D2
+
+players.PlayerAdded:Connect(function(plr)
+	local D = D2("Coins",plr)
+	local stats = L.CreateLeaderstats(plr)
+	L.MakeStat(plr,"NumberValue",D:Get(10),"Coins")
+	while wait(5) do
+		L.IncrementStat(plr,"Coins",10)
+		D:Increment(10)
+	end
+end)
+```
+Here I create leaderstats and using Kampfkarren's datastore2, which is built into Revolution, I save the leaderstats & load them.
