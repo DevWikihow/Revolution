@@ -11,7 +11,7 @@ https://i.imgur.com/jrqFsZZ.png
 Take it here as a free model 
 https://roblox.com/library/3636674984/Revolution
 
-***I can't even insert that GRRRRRRRRRRR**
+**I can't even insert that GRRRRRRRRRRR**
 
 Try running this in the cmd bar:
 ```
