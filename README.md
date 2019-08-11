@@ -23,10 +23,10 @@ game:GetService("InsertService"):LoadAsset(3636674984).Parent = workspace
 Easily! Here's a little example:
 
 ```
-local players = game:GetService("Players")
-local M = require(script.Revolution)
-local L = M.L
-local D2 = M.D2
+local players = game:GetService("Players") --Players service
+local M = require(script.Revolution) --The module
+local L = M.L --Leaderstats module
+local D2 = M.D2 --datastore2 module
 
 players.PlayerAdded:Connect(function(plr)
 	local D = D2("Coins",plr)
