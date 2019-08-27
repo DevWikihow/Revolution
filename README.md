@@ -17,6 +17,11 @@ Try running this in the cmd bar:
 ```
 game:GetService("InsertService"):LoadAsset(3636674984).Parent = workspace
 ```
+**Where can I find the documentation?**
+Right here: https://devforum.roblox.com/t/revolution-documentation/339243
+
+**I want to give an idea, how can I do so?**
+Right here: https://devforum.roblox.com/t/which-functions-should-i-add-to-my-modulescript/311606
 
 **How can I use this???**
 
