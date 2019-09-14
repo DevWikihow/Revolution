@@ -27,3 +27,6 @@ Right here: https://devforum.roblox.com/t/revolution-documentation/339243
 
 Right here: https://devforum.roblox.com/t/which-functions-should-i-add-to-my-modulescript/311606
 
+**FYI:**
+
+When the Module is updated for at least an hour, the toolbox version is the newer version whereas the plugin/InsertService version is the older version.
