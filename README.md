@@ -27,6 +27,17 @@ Right here: https://devforum.roblox.com/t/revolution-documentation/339243
 
 Right here: https://devforum.roblox.com/t/which-functions-should-i-add-to-my-modulescript/311606
 
+**Updating the Extra Modules**
+
+[You need to own the Module to update it this way]
+
+1. Select your revolution.
+https://i.imgur.com/8bQDATI.png
+2. Click init extras
+https://i.imgur.com/ZDtOdnr.png
+3. Your extras have been Updated!
+
+
 **FYI:**
 
 When the Module is updated for at least an hour, the toolbox version is the newer version whereas the plugin/InsertService version is the older version.
